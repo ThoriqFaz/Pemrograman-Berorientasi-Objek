@@ -1,7 +1,3 @@
-#Nama : Muhammad Thoriq Fairusazulfa
-#NIM : 23.01.4970
-#Kelas : D3TI01
-
 import json
 import os
 
@@ -82,13 +78,13 @@ manajemen.daftar_mahasiswa = []
 
 # Menambah mahasiswa hanya jika belum ada
 mahasiswa_baru = [
-    ("Diahiro", "23014958", "Teknik Informatika"),
-    ("Thoriq", "23014970", "Teknik Informatika"),
-    ("Habib", "23014974", "Teknik Informatika"),
-    ("Naufal", "23014975", "Teknik Informatika"),
-    ("Neferal", "23014990", "Teknik Informatika"),
-    ("Maritza", "23015000", "Teknik Informatika"),
-    ("Arya", "23015003", "Teknik Informatika")
+    ("Diahiro", "249581", "Teknik Informatika"),
+    ("Thoriq", "249701", "Teknik Informatika"),
+    ("Habib", "249741", "Teknik Informatika"),
+    ("Naufal", "249751", "Teknik Informatika"),
+    ("Neferal", "249901", "Teknik Informatika"),
+    ("Maritza", "250001", "Teknik Informatika"),
+    ("Arya", "250031", "Teknik Informatika")
 ]
 
 for nama, nim, prodi in mahasiswa_baru:
